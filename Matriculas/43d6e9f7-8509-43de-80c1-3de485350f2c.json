@@ -1,0 +1,31 @@
+{
+  "numero": "43d6e9f7-8509-43de-80c1-3de485350f2c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 56,
+    "second": 54
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Mùsica",
+      "Club de Andinismo",
+      "Club de Boxeo",
+      "Club de Futlbol"
+    ],
+    "nombre": "aleks",
+    "apellido": "pachacama",
+    "cedula": "17101546546"
+  },
+  "curso": {
+    "titulo": "Programacion movil Básica",
+    "costo": 112.0
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

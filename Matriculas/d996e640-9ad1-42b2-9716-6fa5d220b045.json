@@ -1,0 +1,28 @@
+{
+  "numero": "d996e640-9ad1-42b2-9716-6fa5d220b045",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 58,
+    "second": 0
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Futlbol"
+    ],
+    "nombre": "juan",
+    "apellido": "pere",
+    "cedula": "15648648468"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "costo": 124.0,
+    "descripcion": "ALgoritmos"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

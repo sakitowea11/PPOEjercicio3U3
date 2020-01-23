@@ -1,0 +1,31 @@
+{
+  "numero": "03a54e3c-fb01-4e85-8450-3050addcdb50",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 58,
+    "second": 8
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "nombre": "melani",
+    "apellido": "suarez",
+    "cedula": "15648648468"
+  },
+  "curso": {
+    "titulo": "Reparación de computadoras",
+    "costo": 224.0,
+    "descripcion": "Como aprender una mejor manera a reparar una comṕutadora de manera rapida"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

@@ -1,0 +1,31 @@
+{
+  "numero": "a30bc49e-7daf-45ea-aff9-e1ceba4f0a64",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 58,
+    "second": 5
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "nombre": "melani",
+    "apellido": "suarez",
+    "cedula": "15648648468"
+  },
+  "curso": {
+    "titulo": "Programación móvil avanzada",
+    "costo": 112.0,
+    "descripcion": "android y ios"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

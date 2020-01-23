@@ -1,0 +1,57 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "nombre": "karla",
+    "apellido": "molina",
+    "cedula": "1751846546"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Mùsica",
+      "Club de Andinismo",
+      "Club de Boxeo",
+      "Club de Futlbol"
+    ],
+    "nombre": "aleks",
+    "apellido": "pachacama",
+    "cedula": "17101546546"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Futlbol"
+    ],
+    "nombre": "juan",
+    "apellido": "pere",
+    "cedula": "15648648468"
+  },
+  {
+    "carrera": "Ingenieria Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Futlbol"
+    ],
+    "nombre": "camilo",
+    "apellido": "pere",
+    "cedula": "15648648468"
+  },
+  {
+    "carrera": "Ingenieria Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "nombre": "melani",
+    "apellido": "suarez",
+    "cedula": "15648648468"
+  }
+]

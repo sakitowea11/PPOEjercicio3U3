@@ -1,0 +1,31 @@
+{
+  "numero": "2dbe1caa-e59b-496d-a991-fae7d7a6471a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 58,
+    "second": 10
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Futlbol",
+      "Club de Robòtica"
+    ],
+    "nombre": "melani",
+    "apellido": "suarez",
+    "cedula": "15648648468"
+  },
+  "curso": {
+    "titulo": "Programación Orientada a Objetos",
+    "costo": 123.0,
+    "descripcion": "Clases y Objetos"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

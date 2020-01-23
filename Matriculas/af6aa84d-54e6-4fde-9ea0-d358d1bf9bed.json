@@ -1,0 +1,29 @@
+{
+  "numero": "af6aa84d-54e6-4fde-9ea0-d358d1bf9bed",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 54,
+    "second": 8
+  },
+  "estado": "REGISTRADA",
+  "estudiante": {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Atletismo",
+      "Club de Futlbol"
+    ],
+    "nombre": "karla",
+    "apellido": "molina",
+    "cedula": "1751846546"
+  },
+  "curso": {
+    "titulo": "Reparación de computadoras",
+    "costo": 224.0,
+    "descripcion": "Como aprender una mejor manera a reparar una comṕutadora de manera rapida"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}
